@@ -1,0 +1,6 @@
+target/
+.idea/
+*.iml
+*.log
+config/Config.java
+src/main/java/com/idoit/config/Config.java
